@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-EDA-of-Automobile-Data
+# Exploratory-Data-Analysis-EDA-Using-Malplotlib-and-Seaborn
 I have handeld duplicate and null vales, and converted incorrect datatype into correct datatype. 
 This EDA consist of different charts like bar chart, line chart, boxplot and Pie chart. 
 Pyhton libarary used: Pandas, NumPy, Matplotlib, Seaborn.
