@@ -1,5 +1,7 @@
 # Exploratory-Data-Analysis-EDA-of-Automobile-Data
+I have handeld duplicate and null vales, and converted incorrect datatype into correct datatype. 
 This EDA consist of different charts like bar chart, line chart, boxplot and Pie chart. 
+Pyhton libarary used: Pandas, NumPy, Matplotlib, Seaborn.
 1. Different chart of country's count, sales's count, dealsize count, Productline count.
 2. Bar chart of Top 10 city, Top 10 country, Top 10 product, Top 10 coustomer.
 3. Histogram of all numerical columns.
